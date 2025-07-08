@@ -4,12 +4,9 @@ This repository contains a sample **Vulnerability Assessment & Penetration Testi
 
 ## 📄 Sample Report
 
-- `reports/webapp-vapt-report.md`: Full penetration testing report for a simulated web application.
+- `report.md`: Full penetration testing report for a simulated web application.
 - Designed for showcasing reporting and documentation skills in cybersecurity.
 
-## 📸 Sample Evidence (Optional)
-
-Screenshots and tool output (e.g., Burp Suite, SQLmap, Nmap) can be placed in the `assets/` folder. These are optional but help illustrate hands-on work.
 
 ## 📚 Methodologies Used
 
